@@ -49,10 +49,6 @@ While overall sales and profit are growing year over year, the business is leavi
 - `visual_report.pdf` – Final visual report / storyboard
 - `README.md` – This file
 
-## Tableau Public Dashboard Link
-
-[Add your published Tableau Public link here]
-
 ## Tools Used
 
 Tableau Public (free version) for data visualization and dashboard design.
